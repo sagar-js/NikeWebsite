@@ -1,0 +1,48 @@
+<div id="ProductList">
+    <!-- sidebar -->
+    <mat-drawer #drawer class="example-sidenav" mode="side">
+        <mat-list role="list">
+            <mat-list-item role="listitem" (click)="Sneaker()"><img
+                        src="https://cdn-icons-png.flaticon.com/512/1785/1785348.png" alt=""></mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item role="listitem" (click)="Tshirt()"><img
+                        src="https://cdn-icons-png.flaticon.com/512/4715/4715310.png" alt=""></mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item role="listitem" (click)="Bags()"><img
+                        src="https://cdn-icons-png.flaticon.com/512/2822/2822424.png" alt=""></mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item role="listitem" (click)="Jacket()"><img
+                        src="https://cdn-icons-png.flaticon.com/512/2806/2806175.png" alt=""></mat-list-item>
+            <mat-divider></mat-divider>
+            <mat-list-item role="listitem" (click)="Other()"><img
+                        src="https://cdn-icons-png.flaticon.com/512/7245/7245102.png" alt=""></mat-list-item>
+        </mat-list>
+    </mat-drawer>
+
+    <!-- sidebar -->
+    <div class="example-sidenav-content">
+        <mat-icon (click)="drawer.toggle()">menu</mat-icon>
+    </div>
+
+    <!-- product -->
+    <div class="productsCart">
+        <div  class="cartItem"  *ngFor="let product of products">
+            <mat-card class="example-card flex">
+                <mat-card-header>
+                    <mat-card-title>{{product.name}} 
+                        <mat-divider></mat-divider>
+                        <span>${{product.price}}</span>
+                    </mat-card-title>
+                </mat-card-header>
+                <img mat-card-image src="{{product.img}}" alt="Photo of a Shiba Inu">
+                <mat-card-content>
+                        {{product.details}}
+                </mat-card-content>
+                <mat-card-actions>
+                    <button mat-button><mat-icon>favorite</mat-icon></button>
+                    <button id="button" mat-button (click)="addProductToCart(product)">AddToCart</button>
+                </mat-card-actions>
+            </mat-card>
+        </div>
+    </div>
+</div>  

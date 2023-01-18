@@ -1,0 +1,240 @@
+#ProductList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    max-width: 100vw;
+    scroll-behavior: smooth;
+    // background-image: url('https://i.insider.com/6377cca02c8b9a0018cba78a?width=700');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: darken;
+
+    // header
+    #header {
+        display: flex;
+        width: 100vw;
+        background-color: transparent;
+
+        nav {
+            display: flex;
+            align-items: center;
+        }
+
+        .data {
+            display: flex;
+            flex-direction: row-reverse;
+            width: 100%;
+            padding: 1vw 1vw;
+
+            button {
+                background: transparent;
+                margin: 0 1vw;
+                border: none;
+
+                .mat-icon {
+                    font-size: 2vw;
+                    background: transparent;
+                }
+            }
+        }
+    }
+
+    // header
+
+    // product
+    .productsCart {
+        display: flex;
+        flex-direction: row;
+        max-width: 100vw;
+        flex-wrap: wrap;
+        margin-left: 10vw;
+
+        .cartItem {
+            display: flex;
+            flex-direction: row;
+            height: auto;
+            width: auto;
+
+            .example-card {
+                margin: 3vw 3vw;
+                width: 20vw;
+                background: transparent;
+                background-color: rgb(251, 251, 251);
+                // box-shadow:
+                //     0 10px 12px rgba(0, 0, 0, 0.034),
+                //     0 10px 5.3px rgba(0, 0, 0, 0.048),
+                //     0 12.5px 10px rgba(0, 0, 0, 0.06),
+                //     0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+                //     0 21.8px 23.4px rgba(0, 0, 0, 0.086),
+                //     0 20px 20px rgba(0, 0, 0, 0.12);
+                color: rgb(146, 12, 7);
+                border-radius: 0.2vw;
+
+                .mat-card-title {
+                    font-family: fantasy;
+
+                    span {
+                        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                        color: rgb(16, 91, 21);
+                        font-size: 1.3vw;
+                        padding: 0 1vw;
+                        font-family: fantasy;
+                    }
+                }
+
+                img {
+                    height: 20vw;
+                    width: 22.1vw;
+                    transition: 0.4s;
+                }
+
+                img:hover {
+                    position: absolute;
+                    z-index: 100;
+                    transform: scale(1.4);
+                    border-radius: 0.5vw;
+                }
+
+                .mat-card-content {
+                    color: gray;
+                }
+
+                .mat-card-actions {
+                    display: flex;
+                    justify-content: space-between;
+
+                    #button {
+                        border: 0.5px solid;
+                    }
+                }
+            }
+        }
+    }
+
+    // product
+
+    // sidenav button toggle
+    .example-sidenav-content {
+        .mat-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            top: 4.5vw;
+            left: 4.5%;
+            z-index: 100;
+            color: rgb(241, 10, 10);
+            font-size: 2.3vw;
+            // font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    }
+
+    // sidenav content
+    .example-sidenav {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        top: 12vw;
+        left: 2vw;
+        height: 100%;
+        z-index: 1;
+        background-color: transparent;
+    }
+
+
+    .mat-drawer {
+        background-color: pink;
+
+        .mat-list .mat-list-item {
+            height: 5vw;
+            background-color: transparent;
+            margin: 1vw 0;
+
+            img {
+                height: 4.5vw;
+                width: 4.5vw;
+                background: transparent;
+                background-color: aliceblue;
+                border-radius: 0.3vw;
+                box-shadow:
+                    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+                    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+                    0 12.5px 10px rgba(0, 0, 0, 0.06),
+                    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+                    0 21.8px 23.4px rgba(0, 0, 0, 0.086),
+                    0 30px 30px rgba(0, 0, 0, 0.12);
+            }
+
+            img:hover {
+                transform: scale(1.1);
+            }
+        }
+    }
+}
+
+
+
+
+
+@media screen and (max-width:420px) {
+    #ProductList {
+        max-width: 90vw;
+        overflow-x: hidden;
+        // sidenav button toggle
+        .example-sidenav-content {
+            .mat-icon {
+                position: absolute;
+                top: 15%;
+                left: 5%;
+                font-size: 8vw;
+                color: white;
+            }
+        }
+
+        // sidenav content
+        .example-sidenav {
+            position: fixed;
+            top: 43vw;
+            left: -1%;
+        }
+
+
+        .mat-drawer {
+            background-color: transparent;
+            .mat-list .mat-list-item {
+                height: 10vw;
+                margin: 1vw 0;
+
+                img {
+                    height: 6.5vw;
+                    width: 6.5vw;
+                }
+            }
+        }
+
+        .productsCart{
+            font-size: 2vw;
+            .cartItem{
+                .example-card{
+                    width: 100%;
+                    .mat-card-title{
+                        span{
+                            font-size: 4.5vw;
+                        }
+                    }
+                    img{
+                        width: 100%;
+                        height: 20vh;
+                        margin-left: 0.5vw;
+                    }
+                    img:hover{
+                        transform: scale(1.05);
+                    }
+                }
+            }
+        }
+    }
+}

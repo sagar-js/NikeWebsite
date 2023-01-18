@@ -1,0 +1,386 @@
+{
+  "AddedInCart": [
+    {
+      "id": 3,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://i.insider.com/6377cca02c8b9a0018cba78a?width=700",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 4,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://www.highsnobiety.com/static-assets/thumbor/sW5VroDPSREWiRwW6wCZwLZpAMU=/1600x1067/www.highsnobiety.com/static-assets/wp-content/uploads/2022/10/26100432/spider-man-across-the-spiderverse.jpg",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 2,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://5.imimg.com/data5/ANDROID/Default/2021/8/UR/IO/IT/54132075/product-jpeg-500x500.jpg",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 1,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c20bb9e-48d2-44e4-bb2a-abe502b11b50/air-max-270-shoes-s1JpCx.png",
+      "price": 350,
+      "color": "warn"
+    }
+  ],
+  "AllListedProduct": [
+    {
+      "id": 1,
+      "name": "Nike Venture Runner",
+      "details": "Wooden product from the best dealer in a city",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c20bb9e-48d2-44e4-bb2a-abe502b11b50/air-max-270-shoes-s1JpCx.png",
+      "img2": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c20bb9e-48d2-44e4-bb2a-abe502b11b50/air-max-270-shoes-s1JpCx.png",
+      "price": 350
+    }
+  ],
+  "Sneaker": [
+    {
+      "id": 1,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c20bb9e-48d2-44e4-bb2a-abe502b11b50/air-max-270-shoes-s1JpCx.png",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 2,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://5.imimg.com/data5/ANDROID/Default/2021/8/UR/IO/IT/54132075/product-jpeg-500x500.jpg",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 3,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://i.insider.com/6377cca02c8b9a0018cba78a?width=700",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 4,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://www.highsnobiety.com/static-assets/thumbor/sW5VroDPSREWiRwW6wCZwLZpAMU=/1600x1067/www.highsnobiety.com/static-assets/wp-content/uploads/2022/10/26100432/spider-man-across-the-spiderverse.jpg",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 5,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9be1f006-3ad6-4bfe-9a55-e92ad44c73a6/air-jordan-1-retro-high-og-shoes-fZMprq.png",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 6,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ee6f714a-597d-446a-8e89-a78b960b3a1a/air-max-pre-day-mens-shoes-JBXGg7.png",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 7,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://www.platypusshoes.com.au/media/wysiwyg/PLAT_NikeBeetroot_PLP.jpg?auto=webp&quality=85&format=pjpg&width=800",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 8,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://www.platypusshoes.com.au/media/wysiwyg/PLAT_NikeBeetroot_PLP.jpg?auto=webp&quality=85&format=pjpg&width=800",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 9,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/56e19ad3-6e34-48c7-910d-57f02babc6f8/nike-just-do-it.png",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 10,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://static.nike.com/a/images/w_1536,c_limit/2a4c26eb-b373-4f7c-9214-a1ef25b621dc/nike-just-do-it.jpg",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 11,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://media.allure.com/photos/58b070bfc94ccf4fab2ab397/master/pass/nike%20middle%20east%20ad.jpeg",
+      "price": 350,
+      "color": "warn"
+    },
+    {
+      "id": 12,
+      "name": "Nike Venture Runner",
+      "details": "Nike The Worlds Best Brand",
+      "img": "https://cdn-japantimes.com/wp-content/uploads/2022/10/np_file_187337-scaled.jpeg",
+      "price": 350,
+      "color": "warn"
+    }
+  ],
+  "Tshirt": [
+    {
+      "id": 1,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9d941c2a-2347-4417-b0d2-3df670b9fbf3/dri-fit-academy-short-sleeve-graphic-football-top-bBN0Ht.png",
+      "price": 350
+    },
+    {
+      "id": 2,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/de7205fd-9d54-472f-afcd-cdf85800d0b2/giannis-dri-fit-basketball-t-shirt-vsZvm1.png",
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8acf4060-b122-43ad-851d-08808506d310/forward-hoodie-hoodie-qKbJFt.png",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/002e91b7-d42f-4591-8528-80b470bd43a5/jordan-dri-fit-sport-hoodie-4xncvC.png",
+      "price": 350
+    },
+    {
+      "id": 5,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/002e91b7-d42f-4591-8528-80b470bd43a5/jordan-dri-fit-sport-hoodie-4xncvC.png",
+      "price": 350
+    },
+    {
+      "id": 6,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/002e91b7-d42f-4591-8528-80b470bd43a5/jordan-dri-fit-sport-hoodie-4xncvC.png",
+      "price": 350
+    },
+    {
+      "id": 7,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2b937c0f-e298-4da0-afdf-84af7562a583/sportswear-icon-clash-short-sleeve-tie-top-GdbMh0.png",
+      "price": 350
+    },
+    {
+      "id": 8,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9d941c2a-2347-4417-b0d2-3df670b9fbf3/dri-fit-academy-short-sleeve-graphic-football-top-bBN0Ht.png",
+      "price": 350
+    },
+    {
+      "id": 9,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9d941c2a-2347-4417-b0d2-3df670b9fbf3/dri-fit-academy-short-sleeve-graphic-football-top-bBN0Ht.png",
+      "price": 350
+    },
+    {
+      "id": 10,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d983c371-c35c-434d-aca1-00c49a29a38c/air-jordan-wordmark-crew-lsR1Sj.png",
+      "price": 350
+    },
+    {
+      "id": 11,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9d941c2a-2347-4417-b0d2-3df670b9fbf3/dri-fit-academy-short-sleeve-graphic-football-top-bBN0Ht.png",
+      "price": 350
+    },
+    {
+      "id": 12,
+      "name": "jordan-j-balvin-crew",
+      "details": "giannis-dri-fit-basketball-t-shirt",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9d941c2a-2347-4417-b0d2-3df670b9fbf3/dri-fit-academy-short-sleeve-graphic-football-top-bBN0Ht.png",
+      "price": 350
+    }
+  ],
+  "Bag": [
+    {
+      "id": 1,
+      "name": "Nike SB Heritage",
+      "details": "Printed Stash Shoe Bag(13L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/76d6d142-d2c6-43e6-8494-990993098a87/printed-stash-shoe-bag-jJljcK.png",
+      "price": 1395
+    },
+    {
+      "id": 2,
+      "name": "Nike Sportswear Essential",
+      "details": "Messanger Bag(12L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cd7dec31-ebf8-4a38-89ae-cf727004d280/shoe-box-bag-M9GftZ.png",
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "Nike Sportswear Essential",
+      "details": "Nike Sportswear Essential(12L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9cb1b8bc-ee4c-401c-bbb5-5227d9ed10fe/sportswear-essentials-tote-bag-dlBJfm.png",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2e49cc20-1761-4c32-9133-850a4c2bb005/heritage-hip-pack-sXndn4.png",
+      "price": 350
+    },
+    {
+      "id": 5,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2e49cc20-1761-4c32-9133-850a4c2bb005/heritage-hip-pack-sXndn4.png",
+      "price": 350
+    },
+    {
+      "id": 6,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e3b04f74-2da5-4dd4-8e2f-7c7a04b95069/sportswear-futura-365-cross-body-bag-N9lck3.png",
+      "price": 350
+    },
+    {
+      "id": 7,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a5bdbc9b-6f4f-4349-9c89-fd2132241669/sportswear-futura-365-mini-backpack-nc3WGm.png",
+      "price": 350
+    },
+    {
+      "id": 8,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2a28eeb8-8f79-483c-8618-9b7ed95d89dc/sportswear-futura-luxe-mini-backpack-PxLmdZ.png",
+      "price": 350
+    },
+    {
+      "id": 9,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2a28eeb8-8f79-483c-8618-9b7ed95d89dc/sportswear-futura-luxe-mini-backpack-PxLmdZ.png",
+      "price": 350
+    },
+    {
+      "id": 10,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/131368cc-601f-43e3-a8eb-92005c6fba8e/sportswear-futura-luxe-mini-backpack-PxLmdZ.png",
+      "price": 350
+    },
+    {
+      "id": 11,
+      "name": "Nike Sportswear Essential ",
+      "details": "Shoes Box Bag(12L)",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cd7dec31-ebf8-4a38-89ae-cf727004d280/shoe-box-bag-M9GftZ.png",
+      "price": 350
+    }
+  ],
+  "Jacket": [
+    {
+      "id": 1,
+      "name": "Nike Court",
+      "details": "Men's Tenis Jacket",
+      "img": "https://m.media-amazon.com/images/I/81MISiGm9zL._SY550_.jpg",
+      "price": 350
+    },
+    {
+      "id": 2,
+      "name": "Nike Court",
+      "details": "Men's Tenis Jacket",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1212ea5c-0469-448b-aa4a-5a464479f4cd/nocta-tracksuit-jacket-4WKlTm.png",
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "Nike Court",
+      "details": "Men's Tenis Jacket",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e257dd01-5ae2-4e51-aa8c-010eca09adc6/esc-lightweight-jacket-ZgMQFp.png",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "name": "Nike Court",
+      "details": "Men's Tenis Jacket",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/569f5470-6016-459d-900b-e63e1d58fc3f/ispa-gilet-0MZCcJ.png",
+      "price": 350
+    },
+    {
+      "id": 5,
+      "name": "Nike Court",
+      "details": "Men's Tenis Jacket",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/74bf4da9-ff4e-433b-8ecd-559fe0f95020/yoga-dri-fit-jacket-qZFbcT.png",
+      "price": 350
+    },
+    {
+      "id": 6,
+      "name": "Nike Court",
+      "details": "Men's Tenis Jacket",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ecd7a594-97d6-4f23-bdef-a27cdd4f843d/sportswear-lined-woven-jacket-dQWdpc.png",
+      "price": 350
+    },
+    {
+      "id": 7,
+      "name": "Nike Court",
+      "details": "Men's Tenis Jacket",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b5791cca-dbc4-4fc7-a865-d8ef7a9f1b95/jordan-trophy-room-woven-jacket-MGW7bZ.png",
+      "price": 350
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "phone": "",
+      "password": ""
+    },
+    {
+      "fname": "sagar",
+      "lname": "katad",
+      "email": "mrsagarkatad@gmail.com",
+      "phone": "7769820646",
+      "password": "sagar16",
+      "id": 2
+    },
+    {
+      "fname": null,
+      "lname": null,
+      "email": null,
+      "phone": null,
+      "password": null,
+      "id": 3
+    }
+  ]
+}

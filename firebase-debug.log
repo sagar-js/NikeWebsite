@@ -1,0 +1,15 @@
+[debug] [2023-01-07T09:16:21.700Z] ----------------------------------------------------------------------
+[debug] [2023-01-07T09:16:21.704Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-01-07T09:16:21.704Z] CLI Version:   11.20.0
+[debug] [2023-01-07T09:16:21.705Z] Platform:      win32
+[debug] [2023-01-07T09:16:21.705Z] Node Version:  v16.15.0
+[debug] [2023-01-07T09:16:21.706Z] Time:          Sat Jan 07 2023 14:46:21 GMT+0530 (India Standard Time)
+[debug] [2023-01-07T09:16:21.707Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as mrsagarkatad@gmail.com
+[debug] [2023-01-07T09:16:31.945Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
